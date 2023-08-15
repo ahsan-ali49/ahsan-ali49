@@ -14,16 +14,10 @@
     For backend, I use **Nodejs (server)**, **MongoDB (database etc)**
     I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
 ### My Work and projects
-    * Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend service.
-    * POS Product deployed in more than 5 places in Markeet.
-    * Accounting Management for Real Estate Business Deployed in more than 3 places
-    * Deployed one project in the academic sector to solve the problem of thousands of students.
-    * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
-### Company Site 
-    🔗 [Fahad's Company Website](https://www.fastechsystem.com/)
-    
-### Portfolio    
-    🔗 [Ahsan's Personal Portfolio Website](https://www.ahsanalishah.com/)
+
+### Company Site
+
+### Portfolio
 
 ### Technologies I am working with:
     👉   Spring (Java)
