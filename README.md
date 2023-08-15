@@ -1,8 +1,62 @@
-### Hi there 👋
+### Hi there, Ahsan Ali here 😍 
 
-- 🔭 I’m currently working on building a Cards game using HTML, CSS and Javascript.
-- 🌱 I’m currently learning HTML, CSS and Javacript.
-- 👯 I’m looking to collaborate on tasks related to basic Frontend tasks. 
-- 💬 Ask me about HTML, CSS and Javacript.
-- 😄 Pronouns: Introvert.
-- ⚡ Fun fact: I look older than my age.
+    
+### Student Life
+    I did my matriculation and Intermediate from IBA Community College in Jacobabad Pakistan... 
+    For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
+
+###  Professional Side:
+    I started my Professional Career as a Junior Software Engineer at the start of 4th Semester of my Graduation in the Software industry.
+    Mean-while Software Engineer at Idea 2 Product Software Company in Sukkur Pakistan. 
+    After having a handsome experience from a reputed software house, now I have my own best team and startup of more than 10 developers contributing and providing services 
+    with mentioned technologies below
+>   For the front end I am using **React JS 🕸️** with cool advance libraries according to customers' demand.
+    For backend, I use **Nodejs (server)**, **MongoDB (database etc)**
+    I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
+### My Work and projects
+    * Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend service.
+    * POS Product deployed in more than 5 places in Markeet.
+    * Accounting Management for Real Estate Business Deployed in more than 3 places
+    * Deployed one project in the academic sector to solve the problem of thousands of students.
+    * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
+### Company Site 
+    🔗 [Fahad's Company Website](https://www.fastechsystem.com/)
+    
+### Portfolio    
+    🔗 [Ahsan's Personal Portfolio Website](https://www.ahsanalishah.com/)
+
+### Technologies I am working with:
+    👉   Spring (Java)
+    👉	Blockchain 
+    👉	Front End
+            HTML5
+            CSS ======> SASS Framework
+            Bootstrap 5
+            Javascript
+                React.Js with Redux
+                    Next.Js framework for Server Side Enterprise Application Development
+    👉  Mobile
+            React Native
+    👇 Tools:
+    👉	JDK 1.8, 11, 17, 18
+    👉	Databases
+            * MySQL Community Server
+            * SQL Server
+            * MongoDB Server for NoSQL Document-based Projects
+    👉  Version Control
+            Github
+    👉  Development IDEs
+            JetBrains IntelliJ Idea (Community Edition)
+            Netbeans
+            Visual Studio Code
+    👉  APIs Testing Tools
+            Postman Client
+    👉 Database Designing
+                 Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahsan-ali49)  
+<br/>
+ ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=ahsan-ali49)
+![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=ahsan-ali49)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsan-ali49&show_icons=true&theme=dark)  
+![GitHub metrics](https://metrics.lecoq.io/ahsan-ali49)  
+![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan-ali49)  
