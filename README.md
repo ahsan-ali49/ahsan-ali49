@@ -1,4 +1,4 @@
-### Hi there, Ahsan Ali here 😍 
+### Hi there, Ahsan here 😍 
 
     
 ### Student Life
@@ -6,10 +6,6 @@
     For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
 
 ###  Professional Side:
-    I started my Professional Career as a Junior Software Engineer at the start of 4th Semester of my Graduation in the Software industry.
-    Mean-while Software Engineer at Idea 2 Product Software Company in Sukkur Pakistan. 
-    After having a handsome experience from a reputed software house, now I have my own best team and startup of more than 10 developers contributing and providing services 
-    with mentioned technologies below
 >   For the front end I am using **React JS 🕸️** with cool advance libraries according to customers' demand.
     For backend, I use **Nodejs (server)**, **MongoDB (database etc)**
     I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
@@ -20,7 +16,6 @@
 ### Portfolio
 
 ### Technologies I am working with:
-    👉   Spring (Java)
     👉	Blockchain 
     👉	Front End
             HTML5
@@ -29,6 +24,9 @@
             Javascript
                 React.Js with Redux
                     Next.Js framework for Server Side Enterprise Application Development
+    👉  Back End
+            Nodejs
+            Expressjs
     👉  Mobile
             React Native
     👇 Tools:
