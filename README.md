@@ -2,8 +2,8 @@
 
     
 ### Student Life
-   I studied at IBA Community College in Jacobabad, Pakistan, for my matriculation and Intermediate studies.
-   Currently, I'm a Scholar at Sukkur IBA University, majoring in Computer Science.
+>     I studied at IBA Community College in Jacobabad, Pakistan, for my matriculation and Intermediate studies.
+>     Currently, I'm a Scholar at Sukkur IBA University, majoring in Computer Science.
 ###  Professional Side:
 >   For the front end I am using **React JS 🕸️** with cool advance libraries according to customers' demand.
     For backend, I use **Nodejs (server)**, **MongoDB (database etc)**
