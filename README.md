@@ -15,10 +15,9 @@
 ### Portfolio
 
 ### Technologies I am working with:
-    👉	Blockchain 
     👉	Front End
             HTML5
-            CSS ======> SASS Framework
+            CSS
             Bootstrap 5
             Javascript
                 React.Js with Redux
@@ -26,13 +25,9 @@
     👉  Back End
             Nodejs
             Expressjs
-    👉  Mobile
-            React Native
     👇 Tools:
     👉	JDK 1.8, 11, 17, 18
     👉	Databases
-            * MySQL Community Server
-            * SQL Server
             * MongoDB Server for NoSQL Document-based Projects
     👉  Version Control
             Github
