@@ -21,13 +21,11 @@
             CSS
             Bootstrap 5
             Javascript
-                React.Js with Redux
-                    Next.Js framework for Server Side Enterprise Application Development
+                React.js
     👉  Back End
             Nodejs
             Expressjs
     👇 Tools:
-    👉	JDK 1.8, 11, 17, 18
     👉	Databases
             * MongoDB Server for NoSQL Document-based Projects
     👉  Version Control
@@ -38,8 +36,6 @@
             Visual Studio Code
     👉  APIs Testing Tools
             Postman Client
-    👉 Database Designing
-                 Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ahsan-ali49)](https://git.io/streak-stats)
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=ahsan-ali49)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=ahsan-ali49)  
