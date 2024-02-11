@@ -37,7 +37,6 @@
     👉  APIs Testing Tools
             Postman Client
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ahsan-ali49)](https://git.io/streak-stats)
- ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=ahsan-ali49)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=ahsan-ali49)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsan-ali49&show_icons=true&theme=dark)    
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan-ali49)  
