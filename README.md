@@ -3,7 +3,7 @@
     
 ### Student Life
 >     I am a Computer Science graduate, working on Javascript based backend technologies to build efficient applications.
->     Try to solve real life and programming based problems. I have a huge interest in cricket and cket statistics.
+>     Try to solve real life and programming based problems. I have a huge interest in cricket and cricket statistics.
 ###  Professional Side:
 >   For the front end I am using **React JS 🕸️** with cool advance libraries according to customers' demand.
     For backend, I use **Nodejs (server)**, **MongoDB (database etc)**
